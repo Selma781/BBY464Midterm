@@ -1,0 +1,143 @@
+<xml version="1.0" encoding="UTF-8">
+<rdf:RDF
+xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:dc="http://dublincore.org/documents/2012/06/14/dcmi-terms/">
+
+
+<rdf:Description rdf:about="Denemeler">
+  <dc:title>Denemeler</dc:title>
+  <dc:creator>Michel De Montaigne</dc:creator>
+  <dc:identifier>ISBN:9789754068030</dc:identifier>
+  <dc:publisher>Cem Yayınevi</dc:publisher>
+  <dc:sizeOrDuration>365 s.</dc:sizeOrDuration>
+  <dc:language>Türkçe</dc:language> 
+</rdf:Description>
+
+<rdf:Description rdf:about="Mart Menekseleri">
+  <dc:title>Mart Menekseleri</dc:title>
+  <dc:creator>Sarah Jio</dc:creator>
+  <dc:identifier>ISBN: 9789759996277</dc:identifier>
+  <dc:publisher>Arkadya Yayınları</dc:publisher>
+  <dc:sizeOrDuration>336 s.</dc:sizeOrDuration>
+  <dc:language>Türkçe</dc:language> 
+</rdf:Description>
+
+<rdf:Description rdf:about="Aeden">
+  <dc:title>Aeden</dc:title>
+  <dc:creator>Azra Kohen</dc:creator>
+  <dc:identifier>ISBN: 9786053111870</dc:identifier>
+  <dc:publisher>Destek Yayınları</dc:publisher>
+  <dc:sizeOrDuration>613 s.</dc:sizeOrDuration>
+  <dc:language>Türkçe</dc:language> 
+</rdf:Description>
+    
+<rdf:Description rdf:about="Ci">
+  <dc:title>Ci</dc:title>
+  <dc:creator>Azra Kohen</dc:creator>
+  <dc:identifier>ISBN: 978604994816</dc:identifier>
+  <dc:publisher>Destek Yayınları</dc:publisher>
+  <dc:sizeOrDuration>315 s.</dc:sizeOrDuration>
+  <dc:language>Türkçe</dc:language> 
+</rdf:Description>
+    
+<rdf:Description rdf:about="Pi">
+  <dc:title>Pi</dc:title>
+  <dc:creator>Azra Kohen</dc:creator>
+  <dc:identifier>ISBN: 9786059913959</dc:identifier>
+  <dc:publisher>Destek Yayınları</dc:publisher>
+  <dc:sizeOrDuration>300 s.</dc:sizeOrDuration>
+  <dc:language>Türkçe</dc:language> 
+</rdf:Description>
+    
+<rdf:Description rdf:about="Fi">
+  <dc:title>Fi</dc:title>
+  <dc:creator>Azra Kohen</dc:creator>
+  <dc:identifier>ISBN: 9786054994861</dc:identifier>
+  <dc:publisher>Destek Yayınları</dc:publisher>
+  <dc:sizeOrDuration>341 s.</dc:sizeOrDuration>
+  <dc:language>Türkçe</dc:language> 
+</rdf:Description>
+    
+<rdf:Description rdf:about="Bögürtlen Kısı">
+  <dc:title>Bögürtlen Kısı</dc:title>
+  <dc:creator>Sarah Jio</dc:creator>
+  <dc:identifier>ISBN: 9789759997199</dc:identifier>
+  <dc:publisher>Arkadya Yayınları</dc:publisher>
+  <dc:sizeOrDuration>360 s.</dc:sizeOrDuration>
+  <dc:language>Türkçe</dc:language> 
+</rdf:Description>
+    
+<rdf:Description rdf:about="Elveda Haziran">
+  <dc:title>Elveda Haziran</dc:title>
+  <dc:creator>Sarah Jio</dc:creator>
+  <dc:identifier>ISBN: 9789759998165</dc:identifier>
+  <dc:publisher>Arkadya Yayınları</dc:publisher>
+  <dc:sizeOrDuration>270 s.</dc:sizeOrDuration>
+  <dc:language>Türkçe</dc:language> 
+</rdf:Description>
+
+<rdf:Description rdf:about="Son Kamelya">
+  <dc:title>Son Kamelya</dc:title>
+  <dc:creator>Sarah Jio</dc:creator>
+  <dc:identifier>ISBN: 97897599974413</dc:identifier>
+  <dc:publisher>Arkadya Yayınları</dc:publisher>
+  <dc:sizeOrDuration>355 s.</dc:sizeOrDuration>
+  <dc:language>Türkçe</dc:language> 
+</rdf:Description>
+    
+<rdf:Description rdf:about="Yagmur Sonrasi">
+  <dc:title>Yagmur Sonrasi</dc:title>
+  <dc:creator>Sarah Jio</dc:creator>
+  <dc:identifier>ISBN: 9789759996741</dc:identifier>
+  <dc:publisher>Arkadya Yayınları</dc:publisher>
+  <dc:sizeOrDuration>290 s.</dc:sizeOrDuration>
+  <dc:language>Türkçe</dc:language> 
+</rdf:Description>
+    
+<rdf:Description rdf:about="Goodmorning Glory">
+  <dc:title>Goodmorning Glory</dc:title>
+  <dc:creator>Sarah Jio</dc:creator>
+  <dc:identifier>ISBN: 9781101619995</dc:identifier>
+  <dc:publisher>Arkadya Yayınları</dc:publisher>
+  <dc:sizeOrDuration>300 s.</dc:sizeOrDuration>
+  <dc:language>Türkçe</dc:language> 
+</rdf:Description>
+    
+<rdf:Description rdf:about="Bilgi Diyeti">
+  <dc:title>Bilgi Diyeti</dc:title>
+  <dc:creator>Clay A. Johnson</dc:creator>
+  <dc:identifier>ISBN: 97896055314385</dc:identifier>
+  <dc:publisher>Ufuk Yayınları</dc:publisher>
+  <dc:sizeOrDuration>240 s.</dc:sizeOrDuration>
+  <dc:language>Türkçe</dc:language> 
+</rdf:Description>
+    
+<rdf:Description rdf:about="Genç Kızlara Özel">
+  <dc:title>Genç Kızlara Özel</dc:title>
+  <dc:creator>Esra Nuray Sezer</dc:creator>
+  <dc:identifier>ISBN: 9799757055555</dc:identifier>
+  <dc:publisher>Nesil Yayınları</dc:publisher>
+  <dc:sizeOrDuration>192 s.</dc:sizeOrDuration>
+  <dc:language>Türkçe</dc:language> 
+</rdf:Description>
+
+<rdf:Description rdf:about="Beni Boyle Sev">
+  <dc:title>Beni Boyle Sev</dc:title>
+  <dc:creator>Esra Nuray Sezer</dc:creator>
+  <dc:identifier>ISBN: 9786055927653</dc:identifier>
+  <dc:publisher>Nesil Yayınları</dc:publisher>
+  <dc:sizeOrDuration>96 s.</dc:sizeOrDuration>
+  <dc:language>Türkçe</dc:language> 
+</rdf:Description>
+    
+<rdf:Description rdf:about="Yol Arkadasım">
+  <dc:title>Yol Arkadasım</dc:title>
+  <dc:creator>Esra Nuray Sezer</dc:creator>
+  <dc:identifier>ISBN:9752699694</dc:identifier>
+  <dc:publisher>Nesil Yayınları</dc:publisher>
+  <dc:sizeOrDuration>112 s.</dc:sizeOrDuration>
+  <dc:language>Türkçe</dc:language> 
+</rdf:Description>
+
+
+</rdf:RDF>
