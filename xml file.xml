@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="UFT-8"?>
+<catalog>
+     
+     
+<Publisher>
+    <Publisher_ID>1</Publisher_ID>
+      <Publisher_name>Destek Yayınları</Publisher_name>
+      <Address>İstanbul</Address>
+     <telephone>02122522242</telephone>
+     <Country>Turkey</Country>
+</Publisher> 
+
+
+<Publisher>
+    <Publisher_ID>2</Publisher_ID>
+      <Publisher_name>Arkadya Yayınları</Publisher_name>
+      <Address>İstanbul</Address>
+     <telephone>02125444141</telephone>
+     <Country>Turkey</Country>
+</Publisher> 
+
+
+<Publisher>
+    <Publisher_ID>3</Publisher_ID>
+      <Publisher_name>Cem Yayınevi</Publisher_name>
+      <Address>İstanbul</Address>
+     <telephone>02122934170</telephone>
+     <Country>Turkey</Country>
+</Publisher> 
+
+
+<Publisher>
+    <Publisher_ID>4</Publisher_ID>
+      <Publisher_name>Ufuk Yayınları</Publisher_name>
+      <Address>İstanbul</Address>
+     <telephone>02126719100</telephone>
+     <Country>Turkey</Country>
+</Publisher> 
+
+
+<Publisher>
+    <Publisher_ID>5</Publisher_ID>
+      <Publisher_name>Nesil Yayınları</Publisher_name>
+      <Address>İstanbul</Address>
+     <telephone>02125513225</telephone>
+     <Country>Turkey</Country>
+</Publisher> 
+
+
+<Author>
+    <Author_ID>1</Author_ID>
+      <Author_name>Michel De</Author_name>
+      <Author_surname>Montaigne</Author_surname>
+     <Birthdate>1553</Birthdate>
+     <Deathdate>1592</Deathdate>
+     <Gender>Male</Gender>
+</Author> 
+    
+
+<Author>
+    <Author_ID>2</Author_ID>
+      <Author_name>Azra</Author_name>
+      <Author_surname>Kohen</Author_surname>
+     <Birthdate>1979</Birthdate>
+     <Deathdate>null</Deathdate>
+     <Gender>Female</Gender>
+</Author>     
+
+    
+<Author>
+    <Author_ID>3</Author_ID>
+      <Author_name>Clay A.</Author_name>
+      <Author_surname>Johnson</Author_surname>
+     <Birthdate>1956</Birthdate>
+     <Deathdate>Null</Deathdate>
+     <Gender>Male</Gender>
+</Author>  
+    
+    
+<Author>
+    <Author_ID>4</Author_ID>
+      <Author_name>Sarah</Author_name>
+      <Author_surname>Jio</Author_surname>
+     <Birthdate>1979</Birthdate>
+     <Deathdate>Null</Deathdate>
+     <Gender>Female</Gender>
+</Author>  
+    
+    
+<Author>
+    <Author_ID>5</Author_ID>
+      <Author_name>Esra Nuray</Author_name>
+      <Author_surname>Sezer</Author_surname>
+     <Birthdate>1972</Birthdate>
+     <Deathdate>Null</Deathdate>
+     <Gender>Female</Gender>
+</Author>  
+    
+    
+    <Book>
+      <Book_ID>1</Book_ID>
+      <Book_name>Denemeler</Book_name>
+      <ISBN>9789754068030</ISBN>
+      <Book_Type>Novel</Book_Type>
+      <Language>Turkish</Language>
+      <Page>365</Page>
+      <Author_ID>1</Author_ID>
+      <Publisher_ID>3</Publisher_ID>
+   </Book>
+    
+    
+    <Book>
+      <Book_ID>2</Book_ID>
+      <Book_name>Mart Menekseleri</Book_name>
+      <ISBN>9789759996277</ISBN>
+      <Book_Type>Novel</Book_Type>
+      <Language>Turkish</Language>
+      <Page>336</Page>
+      <Author_ID>2</Author_ID>
+      <Publisher_ID>2</Publisher_ID>
+   </Book>
+   
+   
+    <Book>
+      <Book_ID>3</Book_ID>
+      <Book_name>Aeden</Book_name>
+      <ISBN>9786053111870</ISBN>
+      <Book_Type>Novel</Book_Type>
+      <Language>Turkish</Language>
+      <Page>613</Page>
+      <Book_Type>Novel</Book_Type>
+      <Author_ID>2</Author_ID>
+      <Publisher_ID>1</Publisher_ID>
+   </Book>
+     
+     
+    <Book>
+      <Book_ID>4</Book_ID>
+      <Book_name>Ci</Book_name>
+      <ISBN>978604994816</ISBN>
+      <Book_Type>Novel</Book_Type>
+      <Language>Turkish</Language>
+      <Book_Type>Novel</Book_Type>
+      <Page>315</Page>
+      <Author_ID>2</Author_ID>
+      <Publisher_ID>1</Publisher_ID>
+   </Book>
+     
+     
+    <Book>
+      <Book_ID>5</Book_ID>
+      <Book_name>Fi</Book_name>
+      <ISBN>9786054994861</ISBN>
+      <Book_Type>Novel</Book_Type>
+      <Language>Turkish</Language>
+      <Page>341</Page>
+      <Author_ID>2</Author_ID>
+      <Publisher_ID>1</Publisher_ID>
+   </Book>
+     
+     
+    <Book>
+      <Book_ID>6</Book_ID>
+      <Book_name>Pi</Book_name>
+      <ISBN>9786059913959</ISBN>
+      <Book_Type>Novel</Book_Type>
+      <Language>Turkish</Language>
+      <Page>300</Page>
+      <Author_ID>2</Author_ID>
+      <Publisher_ID>1</Publisher_ID>
+   </Book>
+   
+    <Book>
+      <Book_ID>7</Book_ID>
+      <Book_name>Bögürtlen Kısı</Book_name>
+      <ISBN>9789759997199</ISBN>
+      <Book_Type>Novel</Book_Type>
+      <Language>Turkish</Language>
+      <Page>360</Page>
+      <Author_ID>4</Author_ID>
+      <Publisher_ID>2</Publisher_ID>
+   </Book>
+     
+     
+    <Book>
+      <Book_ID>8</Book_ID>
+      <Book_name>Elveda Haziran</Book_name>
+      <ISBN>9789759998165</ISBN>
+      <Book_Type>Novel</Book_Type>
+      <Language>Turkish</Language>
+      <Page>270</Page>
+      <Author_ID>4</Author_ID>
+      <Publisher_ID>2</Publisher_ID>
+   </Book>
+     
+     
+    <Book>
+      <Book_ID>9</Book_ID>
+      <Book_name>Son Kamelya</Book_name>
+      <ISBN>9789759997441</ISBN>
+      <Book_Type>Novel</Book_Type>
+      <Language>Turkish</Language>
+      <Page>355</Page>
+      <Author_ID>4</Author_ID>
+      <Publisher_ID>1</Publisher_ID>
+   </Book>
+     
+     
+    <Book>
+      <Book_ID>10</Book_ID>
+      <Book_name>Yagmur Sonrasi</Book_name>
+      <ISBN>9789759996741</ISBN>
+      <Book_Type>Novel</Book_Type>
+      <Language>Turkish</Language>
+      <Page>290</Page>
+      <Author_ID>4</Author_ID>
+      <Publisher_ID>1</Publisher_ID>
+   </Book>
+   
+   
+   <Book>
+      <Book_ID>11</Book_ID>
+      <Book_name>Goodmorning Glory</Book_name>
+      <ISBN>9781101619995</ISBN>
+      <Book_Type>Novel</Book_Type>
+      <Language>Turkish</Language>
+      <Page>300</Page>
+      <Author_ID>4</Author_ID>
+      <Publisher_ID>1</Publisher_ID>
+   </Book> 
+   
+   
+    <Book>
+      <Book_ID>12</Book_ID>
+      <Book_name>Bilgi Diyeti</Book_name>
+      <ISBN>97896055314385</ISBN>
+      <Book_Type>Novel</Book_Type>
+      <Language>Turkish</Language>
+      <Page>240</Page>
+      <Author_ID>3</Author_ID>
+      <Publisher_ID>4</Publisher_ID>
+   </Book> 
+   
+   
+   <Book>
+      <Book_ID>13</Book_ID>
+      <Book_name>Genç Kızlara Özel</Book_name>
+      <ISBN>9799757055555</ISBN>
+      <Book_Type>Novel</Book_Type>
+      <Language>Turkish</Language>
+      <Page>192</Page>
+      <Author_ID>5</Author_ID>
+      <Publisher_ID>5</Publisher_ID>
+   </Book> 
+   
+   
+    <Book>
+      <Book_ID>14</Book_ID>
+      <Book_name>Beni Boyle Sev</Book_name>
+      <ISBN>9786055927653</ISBN>
+      <Book_Type>Novel</Book_Type>
+      <Language>Turkish</Language>
+      <Page>96</Page>
+      <Author_ID>5</Author_ID>
+      <Publisher_ID>5</Publisher_ID>
+   </Book> 
+   
+   
+   <Book>
+      <Book_ID>15</Book_ID>
+      <Book_name>Yol Arkadasım</Book_name>
+      <ISBN>9752699694</ISBN>
+      <Book_Type>Novel</Book_Type>
+      <Language>Turkish</Language>
+      <Page>112</Page>
+      <Author_ID>5</Author_ID>
+      <Publisher_ID>5</Publisher_ID>
+   </Book> 
+   
+       
+</catalog>
